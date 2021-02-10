@@ -1,3 +1,4 @@
-?php
-include_once("kolluru fights.html") 
+<?php
+include_once("kolluru fights.html");
+
 ?>
